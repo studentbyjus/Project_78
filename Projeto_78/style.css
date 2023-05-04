@@ -1,0 +1,19 @@
+.h1 {
+    vertical-align: center;
+    text-align: center;
+    font-style: italic;
+}
+
+.familyMemberImage{
+    vertical-align: center;
+    width: auto;
+    height: 200px;
+}
+
+.familyMemberName{
+    vertical-align: center;
+    text-align: center;
+    font-style: italic;
+    width: 50px;
+    height: 20px;
+}
